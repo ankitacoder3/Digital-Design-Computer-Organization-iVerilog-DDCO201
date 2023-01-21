@@ -15,7 +15,7 @@
   #### 3. Open the individual directories.
   #### 4. 
   ###
-  ###### Note- These are frome the UE20CS201 course.
+  ###### 
   ###
   ###
   
