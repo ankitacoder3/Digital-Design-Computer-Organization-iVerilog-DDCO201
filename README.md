@@ -18,7 +18,7 @@
   #### 6. Type 'iverilog -o <testfile_name> <source_file.v>', in the command prompt; (say, 'iverilog -o test and2.v').
   #### 7. Type 'vvp <testfile_name>', in the command prompt; (say, 'vvp test').
   #### 8. Type 'gtkwave dump.vcd', in the command prompt.
-  #### 9. The desired output is present on the screen.
+  #### 9. The desired output is present on the monitor.
   
   
   ###
