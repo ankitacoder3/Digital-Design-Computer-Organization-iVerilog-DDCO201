@@ -4,7 +4,7 @@
 ###
 
 ## Summary:
-#### This is repo contains codes for iVerilog.
+#### This repo contains codes for iVerilog.
 ###
 
  
