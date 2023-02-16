@@ -24,6 +24,26 @@
   ###
   ###### 
   ###
+  
+  
+##Video Links for installation of iVerilog:
+
+1.	ICARUS VERILOG FOR WINDOWS
+		https://www.youtube.com/watch?v=jNhvCRTMU-8
+
+2.	GTKWAVE ON WINDOWS
+https://www.youtube.com/watch?v=OdmXrtvLrg0
+https://www.youtube.com/watch?v=TY3-0d6o7xo
+
+3.	ICARUS VERILOG FOR UBUNTU
+https://www.youtube.com/watch?v=fDUgVFfPfno
+
+4.	GTKWAVE ON UBUNTU
+https://www.youtube.com/watch?v=KlteeEE4ljs
+
+5.	HELLO WORLD ON ICARUS VERILOG
+		https://www.youtube.com/watch?v=xd-ZvBJiv3M
+
   ###
   
   #
