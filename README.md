@@ -26,7 +26,7 @@
   ###
   
   
-##Video Links for installation of iVerilog:
+## Video Links for installation of iVerilog:
 
 1.	ICARUS VERILOG FOR WINDOWS
 		https://www.youtube.com/watch?v=jNhvCRTMU-8
