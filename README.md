@@ -15,16 +15,32 @@
   #### 3. Open the individual directories.
   #### 4. Copy-paste the files in the individual directories, to the iverilog-bin path; say, in the "C:\iverilog\bin" path.
   #### 5. Open command prompt and navigate to the iverilog-bin path ("C:\iverilog\bin" path).
-  #### 6. Type 'iverilog -o <testfile_name> <source_file.v> <other_source_or_dependent_files.v', in the command prompt; (say, 'iverilog -o test and2.v') (say, the files names is 'and2.v').
+  #### 6. Type 'iverilog -o <testfile_name> <source_file.v> <other_source_or_dependent_files.v>', in the command prompt; (say, 'iverilog -o test and2.v') (if, the files names is 'and2.v').
   #### 7. Type 'vvp <testfile_name>', in the command prompt; (say, 'vvp test').
   #### 8. Type 'gtkwave dump.vcd', in the command prompt.
   #### 9. The desired output is present on the monitor.
+  #### -> Refer the example given below, for a better understanding of the above.
   
   
   ###
-  ###### 
+  ###
   ###
   
+## Example for execution:
+  #### i. Clone the 'iVerilog' github repository.
+  #### ii. Navigate to the 'iVerilog_Codes' Directory in that.
+  #### iii. Open the directory, 'Basic_Gates'.
+  #### iv. Copy-paste the files in the individual directories, to the iverilog-bin path; say, in the "C:\iverilog\bin" path.
+  #### 5. Open command prompt and navigate to the iverilog-bin path ("C:\iverilog\bin" path).
+  #### 6. Type 'iverilog -o test_and and2.v and2_tb.v', in the command prompt.
+  #### 7. Type 'vvp test_and', in the command prompt; (say, 'vvp test').
+  #### 8. Type 'gtkwave dump.vcd', in the command prompt.
+  #### 9. The desired output is present on the monitor.
+ 
+
+  ###
+  ###
+  ###  
   
 ## Video Links for installation of iVerilog:
 
