@@ -26,16 +26,16 @@
   ###
   ###
   
-## Example for execution:
+## Example:
   #### i. Clone the 'iVerilog' github repository.
   #### ii. Navigate to the 'iVerilog_Codes' Directory in that.
   #### iii. Open the directory, 'Basic_Gates'.
   #### iv. Copy-paste the files in the individual directories, to the iverilog-bin path; say, in the "C:\iverilog\bin" path.
-  #### 5. Open command prompt and navigate to the iverilog-bin path ("C:\iverilog\bin" path).
-  #### 6. Type 'iverilog -o test_and and2.v and2_tb.v', in the command prompt.
-  #### 7. Type 'vvp test_and', in the command prompt; (say, 'vvp test').
-  #### 8. Type 'gtkwave dump.vcd', in the command prompt.
-  #### 9. The desired output is present on the monitor.
+  #### v. Open command prompt and navigate to the iverilog-bin path ("C:\iverilog\bin" path).
+  #### vi. **Type 'iverilog -o test_and and2.v and2_tb.v', in the command prompt**.
+  #### vii. Type 'vvp test_and', in the command prompt.
+  #### viii. Type 'gtkwave dump.vcd', in the command prompt.
+  #### ix. The desired output is present on the monitor.
  
 
   ###
