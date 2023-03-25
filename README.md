@@ -19,7 +19,7 @@
   #### 7. Type 'vvp <testfile_name>', in the command prompt; (say, 'vvp test').
   #### 8. Type 'gtkwave dump.vcd', in the command prompt.
   #### 9. The desired output is present on the monitor.
-  #### -> Refer the example given below, for a better understanding of the same.
+  #### -> Refer to the example given below, for a better understanding of the same.
   
   
   ###
