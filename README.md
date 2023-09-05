@@ -1,16 +1,16 @@
-# iVerilog
+# iVerilog-Codes
 ###
 ###
 ###
 
 ## Summary:
-#### This repo contains codes for iVerilog.
+#### This repo contains iVerilog codes for various logical elements, like Adders (Fulladder, Ripple Carry Adder, etc), Logic Gates(and, or, nand, etc), Multiplexers, Program counter and many more.
 ###
 
  
 ## Steps for execution:
 
-  #### 1. Clone the 'iVerilog' github repository.
+  #### 1. Clone the 'iVerilog-Codes' github repository.
   #### 2. Navigate to the 'iVerilog_Codes' Directory in that.
   #### 3. Open the individual directories.
   #### 4. Copy-paste the files in the individual directories, to the iverilog-bin path; say, in the "C:\iverilog\bin" path.
