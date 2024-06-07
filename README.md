@@ -1,4 +1,4 @@
-# iVerilog-Codes
+# Digital-Design-Computer-Organization-iVerilog-DDCO201
 ###
 ###
 ###
